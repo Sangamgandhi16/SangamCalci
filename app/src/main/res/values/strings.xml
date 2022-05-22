@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calci</string>
+    <string name="plus">+</string>
+    <string name="multiply">x</string>
+    <string name="subtract">-</string>
+    <string name="divide">\\</string>
+</resources>
